@@ -1,4 +1,4 @@
-# Hey 👋, my name is Sabrina
+# Hey 👋, my name is Tim
 
 ### Game & web developer from London
 
