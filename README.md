@@ -2,7 +2,7 @@
 
 ### Game & web developer from London
 
-- 🔭 I’m currently working on: __Pandios Labs__ 
+- 🔭 I’m currently working on: __Pandios__ 
 - 🌱 I’m currently learning: __JavaScript, Unreal Engine, TailwindCSS__
 
 <br/>
