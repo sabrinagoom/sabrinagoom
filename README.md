@@ -1,8 +1,8 @@
 # Hey 👋, my name is Sabrina
 
-### Game & web developer from London
+### Software developer & entrepreneur
 
-- 🔭 I’m currently working on: __Pandios__ 
+- 🔭 I’m currently singly own and manage on: __PotentSH__ 
 - 🌱 I’m currently learning: __JavaScript, Unreal Engine, TailwindCSS__
 
 <br/>
@@ -15,7 +15,7 @@
     </tr>
     <tr>
         <td>
-            <a href="https://sabcron.com">🌐</a>
+            <a href="https://hpilo.com">🌐</a>
         </td>
         <td>
             <a href="https://read.cv/sabcron">📃</a>
@@ -27,7 +27,7 @@
 
 ### Contact me:
 
-<a href="mailto:hello@sabcron.com">✉️</a>
+<a href="mailto:hello@hpilo.com">✉️</a>
 
 ### Toolset
 
@@ -69,30 +69,23 @@
 
 <br/>
 
-### Support me and my work
-<br/>
-<a href="https://www.buymeacoffee.com/sabcron"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a>
-
-
-<br />
-
 ### My GitHub Stats
 
 <table>
     <tr>
         <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=sabcron&row=3&column=4&no-bg=true"/>
+            <img src="https://github-profile-trophy.vercel.app/?username=hpilo&row=3&column=4&no-bg=true"/>
         </td>
         <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabcron"/>
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=hpilo"/>
         </td> 
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=sabcron&count_private=true&show_icons=true&theme=tokyonight"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=hpilo&count_private=true&show_icons=true&theme=tokyonight"/>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabcron&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpilo&langs_count=10&layout=compact&hide=php,scss,css,html,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
         </td>
     </tr>
 </table>
