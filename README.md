@@ -1,6 +1,6 @@
 # Hey 👋, my name is Sabrina
 
-### Software developer & entrepreneur
+### Software engineer & entrepreneur
 
 - 🔭 I currently singly own and manage: __PotentSH__ 
 
