@@ -66,10 +66,11 @@
         </td>
     </tr>
     <tr>
-        <td>IDEs</td>
+        <td>Hosting</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/contabo.png?raw=true" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/noez.png?raw=true" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/namecheap.png?raw=true" width="40" height="40"/></a>
         </td>
     </tr>
 </table>
