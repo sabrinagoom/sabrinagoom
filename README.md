@@ -2,8 +2,7 @@
 
 ### Software developer & entrepreneur
 
-- 🔭 I’m currently singly own and manage on: __PotentSH__ 
-- 🌱 I’m currently learning: __JavaScript, Unreal Engine, TailwindCSS__
+- 🔭 I currently singly own and manage: __PotentSH__ 
 
 <br/>
 
