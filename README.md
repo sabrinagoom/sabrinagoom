@@ -29,7 +29,7 @@
 
 <a href="mailto:hello@hpilo.com">✉️</a>
 
-### Toolset
+### Tech-stack
 
 <table>
     <tr>
@@ -51,10 +51,9 @@
     <tr>
         <td>Frontend</td>
         <td>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/daisyui.png?raw=true" width="40" height="40"/></a>
         </td>
     </tr>
     <tr>
