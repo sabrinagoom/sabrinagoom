@@ -18,7 +18,7 @@
             <a href="https://hpilo.com">🌐</a>
         </td>
         <td>
-            <a href="https://read.cv/sabcron">📃</a>
+            <a href="https://read.cv/hpilo">📃</a>
         </td>
     </tr>
 </table>
