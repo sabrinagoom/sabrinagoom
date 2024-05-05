@@ -73,6 +73,12 @@
             <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/namecheap.png?raw=true" width="40" height="40"/></a>
         </td>
     </tr>
+    <tr>
+        <td>Monitoring</td>
+        <td>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/google.png?raw=true" width="40" height="40"/></a></a>
+        </td>
+    </tr>
 </table>
 
 
