@@ -61,7 +61,7 @@
         <td>
             <a href=""><img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/mailgun.png?raw=true" width="40" height="40"/></a>
+            <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/mailgun.svg?raw=true" width="40" height="40"/></a>
             <a href=""><img src="https://github.com/HPiLO/HPiLO/blob/main/paypal.png?raw=true" width="40" height="40"/></a>
         </td>
     </tr>
