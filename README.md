@@ -2,7 +2,7 @@
 
 ### Software engineer & entrepreneur
 
-- 🔭 I currently singly own and manage: __PotentSH__ 
+- 🔭 I currently singly own and manage: __Pandios__ 
 
 <br/>
 
