@@ -2,7 +2,7 @@
 
 ### Software engineer & entrepreneur
 
-- 🔭 I currently singly own and manage: __Pandios__ 
+- 🔭 I currently singly own and manage: __Gapple__ 
 
 <br/>
 
